@@ -1,7 +1,7 @@
 Generate qr-code and scan it.
 
 ## Demonstration
-<img src="/20210405225238.gif" width="400" />
+<img src="/20210405225407.gif" width="400" />
 
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
